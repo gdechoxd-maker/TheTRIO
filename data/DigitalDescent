@@ -1,0 +1,24 @@
+{
+    "id": 37456092,
+    "name": "Digital Descent",
+    "author": "Viprin",
+    "creators": [],
+    "verifier": "TurtleMaster",
+    "verification": "https://youtu.be/AuADJEl6z9E?si=ZST28CIYIWPPBWK7",
+    "percentToQualify": 56,
+    "password": "Not Copyable",
+    "records": [
+      {
+          "user": "Jasieqqu",
+          "link": "https://youtu.be/_NTRMUQpe5o?si=Q2nFKsSBSfIxbIt-",
+          "percent": 100,
+          "hz": 240
+      },
+      {
+          "user": "echoXD",
+          "link": "https://youtu.be/cCW2Szr74iA?si=udX6G_ma3iHDQot7",
+          "percent": 100,
+          "hz": 240
+      }
+  ]
+} 
