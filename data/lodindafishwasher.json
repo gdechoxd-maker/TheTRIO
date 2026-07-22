@@ -8,5 +8,12 @@
     "percentToQualify": 56,
     "password": "Not Copyable",
     "records": [
-    ]
-}
+      {
+          "user": "Eurubium",
+          "link": "https://youtu.be/yaSeZUyzsNo?si=3ntzQ9dspNkOgCpW",
+          "percent": 100,
+          "hz": 240
+      }
+  ]
+} 
+
