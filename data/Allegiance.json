@@ -1,0 +1,24 @@
+{
+    "id": 20761188,
+    "name": "Allegiance",
+    "author": "nikroplays",
+    "creators": [],
+    "verifier": "TurtleMaster",
+    "verification": "https://youtu.be/B-KAtX8UaHg?si=R69WJgBO6hkQZ2_I",
+    "percentToQualify": 56,
+    "password": "Not Copyable",
+    "records": [
+      {
+          "user": "echoXD",
+          "link": "https://youtu.be/OEO7b8gtAko?si=84Y21OEq0j_zEB9z",
+          "percent": 100,
+          "hz": 240
+      },
+      {
+          "user": "Jasieqqu",
+          "link": "https://youtu.be/-Tot_kh9LJo?si=PivmZZmjp_lc1b1A",
+          "percent": 100,
+          "hz": 240
+      }
+  ]
+} 
