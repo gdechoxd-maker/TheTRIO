@@ -8,5 +8,11 @@
     "percentToQualify": 56,
     "password": "Not Copyable",
     "records": [
-    ]
-}
+      {
+          "user": "benoniuum",
+          "link": "100",
+          "percent": 100,
+          "hz": 320
+      }
+  ]
+} 
