@@ -1,0 +1,24 @@
+{
+    "id": 69010770,
+    "name": "Dark Odyssey",
+    "author": "JonathanGD",
+    "creators": [],
+    "verifier": "TurtleMaster",
+    "verification": "https://youtu.be/iAOfGSPl-Ps?si=EO-o5vvZyISO7kq37",
+    "percentToQualify": 56,
+    "password": "Not Copyable",
+    "records": [
+      {
+          "user": "echoXD",
+          "link": "https://youtu.be/D4y1RmTwVFg?si=G0mGYw1GD16NGxp2",
+          "percent": 100,
+          "hz": 240
+      },
+      {
+          "user": "Jasieqqu",
+          "link": "https://youtu.be/1-Ib5scSXmM?si=dAyV4UK9hksDRt-u",
+          "percent": 100,
+          "hz": 240
+      }
+  ]
+} 
