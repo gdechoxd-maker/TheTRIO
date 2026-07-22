@@ -1,0 +1,24 @@
+{
+    "id": 62214792,
+    "name": "Azurite",
+    "author": "Sillow",
+    "creators": [],
+    "verifier": "echoXD",
+    "verification": "https://youtu.be/up0DMXebtIQ?si=e0E_cHZrgDGTABBL",
+    "percentToQualify": 56,
+    "password": "Not Copyable",
+    "records": [
+      {
+          "user": "TurtleMaster",
+          "link": "https://youtu.be/oB_AMLk5NEc?si=PxkJrlSlmP7Ojott",
+          "percent": 100,
+          "hz": 240
+      },
+      {
+          "user": "Jasieqqu",
+          "link": "https://youtu.be/_SlNqpSdhBE?si=oel71ro9PHQsV2_P",
+          "percent": 100,
+          "hz": 240
+      }
+  ]
+} 
