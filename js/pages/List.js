@@ -138,7 +138,7 @@ export default {
     }),
     computed: {
         level() {
-            return this.list[this.selected][0];
+            return level?.[0];
         },
         video() {
             if (!this.level.showcase) {
