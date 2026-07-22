@@ -1,0 +1,23 @@
+{
+    "id": 10565740,
+    "name": "Bloodbath",
+    "author": "Riot",
+    "creators": [],
+    "verifier": "echoXD",
+    "verification": "https://youtu.be/Ss_2UvPmXxk?si=jL_V_h3arQpAiYPV",
+    "percentToQualify": 56,
+    "password": "Not Copyable",
+    "records": [
+      {
+          "user": "TurtleMaster",
+          "link": "https://youtu.be/3dSIDKWujs8?si=QECDO2hZUR7gdjNr",
+          "percent": 100,
+          "hz": 240
+      },
+      {
+        "user": "Jasieqqu",
+        "link": "https://youtu.be/oZoCEm7Ad2k?si=IhldUxK43Lsmtbts",
+        "percent": 100,
+        "hz": 240
+  ]
+} 
