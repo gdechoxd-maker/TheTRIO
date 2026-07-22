@@ -1,0 +1,24 @@
+{
+    "id": 59899374,
+    "name": "Prismatic Haze",
+    "author": "Cirtrax",
+    "creators": [],
+    "verifier": "echoXD",
+    "verification": "https://youtu.be/y51PXTlknto?si=vZgRsmpa5ebsh-2L",
+    "percentToQualify": 56,
+    "password": "Not Copyable",
+   "records": [
+      {
+          "user": "TurtleMaster",
+          "link": "https://youtu.be/2nhbaCr19KA?si=1Too54slsiFjV0Xw",
+          "percent": 100,
+          "hz": 240
+      },
+      {
+          "user": "Jasieqqu",
+          "link": "https://youtu.be/MInB2Fx0BFk?si=g32wTbHmuh7XO5gp",
+          "percent": 100,
+          "hz": 240
+      }
+  ]
+} 
