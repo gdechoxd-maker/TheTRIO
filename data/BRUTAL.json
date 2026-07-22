@@ -1,0 +1,24 @@
+{
+    "id": 138356396,
+    "name": "BRUTAL",
+    "author": "Tshack",
+    "creators": [],
+    "verifier": "TurtleMaster",
+    "verification": "https://youtu.be/73I5vYJFFAM?si=KQADM4iXp0Z9bPw8",
+    "percentToQualify": 56,
+    "password": "Not Copyable",
+    "records": [
+      {
+          "user": "Jasieqqu",
+          "link": "https://youtu.be/hFWzH3uef-U?si=B82B6vVNO4kzzpqE",
+          "percent": 100,
+          "hz": 240
+      },
+      {
+          "user": "echoXD",
+          "link": "https://youtu.be/tyZgYSD4DNc?si=paogvVuuDXEVRUJt",
+          "percent": 100,
+          "hz": 240
+      }
+  ]
+} 
