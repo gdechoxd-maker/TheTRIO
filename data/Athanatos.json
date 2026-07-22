@@ -8,5 +8,11 @@
     "percentToQualify": 56,
     "password": "Not Copyable",
     "records": [
-    ]
-}
+      {
+          "user": "benoniuum",
+          "link": "https://youtu.be/dMWtWz89dL4?si=SD3Lr3fOi9RhbkOY",
+          "percent": 100,
+          "hz": 240
+      }
+  ]
+} 
