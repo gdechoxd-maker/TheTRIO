@@ -1,0 +1,24 @@
+{
+    "id": 88943354,
+    "name": "Proteus",
+    "author": "SpergQuos",
+    "creators": [],
+    "verifier": "echoXD",
+    "verification": "https://youtu.be/zb-glXtnRwQ?si=K7ydyDAtx1WfTrCn",
+    "percentToQualify": 56,
+    "password": "Not Copyable",
+    "records": [
+      {
+          "user": "TurtleMaster",
+          "link": "https://youtu.be/YghKp0u6UG8?si=nrOgthe5u5N7nhzW",
+          "percent": 100,
+          "hz": 240
+      },
+      {
+          "user": "Jasieqqu",
+          "link": "https://youtu.be/wF_dAzt7K_4?si=1KTmndCEaov_MH64",
+          "percent": 100,
+          "hz": 240
+      }
+  ]
+} 
