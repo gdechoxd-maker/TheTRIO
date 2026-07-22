@@ -35,7 +35,6 @@ export async function fetchList() {
     return null;
 }
     }
-}
 
 export async function fetchEditors() {
     try {
