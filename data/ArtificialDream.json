@@ -8,5 +8,11 @@
     "percentToQualify": 56,
     "password": "Not Copyable",
     "records": [
+      {
+          "user": "Jasieqqu",
+          "link": "https://www.youtube.com/watch?v=oXmL5wOn0og",
+          "percent": 100,
+          "hz": 240
+      }
     ]
 }
